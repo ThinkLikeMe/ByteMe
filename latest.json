@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
-  "notes": "• Improved scan speed\n• Fixed false positives\n• UI tweaks",
-  "url": "https://github.com/yourusername/ByteMe/releases/download/v1.0.3/ByteMe.dmg"
+  "version": "1.0.4",
+  "notes": "• New icon\n• Update check working",
+  "url": "https://github.com/ThinkLikeMe/ByteMe/releases/download/v1.0.4/ByteMe.dmg"
 }
