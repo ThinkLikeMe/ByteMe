@@ -1,0 +1,9 @@
+{
+  "app_name": "ByteMe",
+  "repo_url": "https://github.com/ThinkLikeMe/ByteMe",
+  "platforms": {
+    "macos": {
+      "installer_url": "https://github.com/ThinkLikeMe/ByteMe/releases/download/v1.0.3/ByteMe-1.0.3.tar.gz"
+    }
+  }
+}
